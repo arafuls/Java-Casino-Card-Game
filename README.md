@@ -1,2 +1,2 @@
 # Java-Casino-Card-Game
-A card game where you compete against a CPU.
+The Java version of Casino, a card game where you compete against a CPU
